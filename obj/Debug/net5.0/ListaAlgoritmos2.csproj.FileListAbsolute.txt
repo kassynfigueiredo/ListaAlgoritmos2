@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\C#\ListaAlgoritmos2\obj\Debug\net5.0\ListaAlgoritmos2.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\C#\ListaAlgoritmos2\obj\Debug\net5.0\ListaAlgoritmos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C#\ListaAlgoritmos2\obj\Debug\net5.0\ListaAlgoritmos2.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C#\ListaAlgoritmos2\obj\Debug\net5.0\ListaAlgoritmos2.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C#\ListaAlgoritmos2\obj\Debug\net5.0\ListaAlgoritmos2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C#\ListaAlgoritmos2\bin\Debug\net5.0\ListaAlgoritmos2.exe
+C:\Users\Acer\Desktop\C#\ListaAlgoritmos2\bin\Debug\net5.0\ListaAlgoritmos2.deps.json
+C:\Users\Acer\Desktop\C#\ListaAlgoritmos2\bin\Debug\net5.0\ListaAlgoritmos2.runtimeconfig.json
+C:\Users\Acer\Desktop\C#\ListaAlgoritmos2\bin\Debug\net5.0\ListaAlgoritmos2.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\C#\ListaAlgoritmos2\bin\Debug\net5.0\ListaAlgoritmos2.dll
+C:\Users\Acer\Desktop\C#\ListaAlgoritmos2\bin\Debug\net5.0\ref\ListaAlgoritmos2.dll
+C:\Users\Acer\Desktop\C#\ListaAlgoritmos2\bin\Debug\net5.0\ListaAlgoritmos2.pdb
+C:\Users\Acer\Desktop\C#\ListaAlgoritmos2\obj\Debug\net5.0\ListaAlgoritmos2.dll
+C:\Users\Acer\Desktop\C#\ListaAlgoritmos2\obj\Debug\net5.0\ref\ListaAlgoritmos2.dll
+C:\Users\Acer\Desktop\C#\ListaAlgoritmos2\obj\Debug\net5.0\ListaAlgoritmos2.pdb
+C:\Users\Acer\Desktop\C#\ListaAlgoritmos2\obj\Debug\net5.0\ListaAlgoritmos2.genruntimeconfig.cache
